@@ -22,6 +22,7 @@ github_username:  mmdrez4
 # flickr_username: jekyll
 instagram_username: mmdrez4
 linkedin_username: mohammadreza-daviran
+huggingface_username: mmdrez4
 
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -91,7 +92,7 @@ content:
     content:
       - layout: left
         title: Sharif University of Technology
-        caption: 2010 - 2013
+        caption: 2019 - 2023
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
