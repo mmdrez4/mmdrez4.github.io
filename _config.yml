@@ -9,7 +9,7 @@ version: 2
 name: Mohammadreza Daviran
 title: B.Sc Student in Computer Engineering at Sharif University of Technology
 email: mohammadrezadaviran01@gmail.com
-website: https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link
+website: www.mohammadrezadaviran.me
 # Dark Mode (true/false/never)
 darkmode: true
 
@@ -32,12 +32,9 @@ huggingface_username: mmdrez4
 # Additional icon links
 additional_links:
 - title: website
-  icon: fas fa-file
-  url: www.mohammadrezadaviran.me
+  icon: fas fa-download
+  url: https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link
 
-- title: hugging face
-  icon: fal fa-file
-  url: www.huggingface.co/mmdrez4
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
