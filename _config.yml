@@ -50,10 +50,21 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Greetings! I am Mohammadreza Daviran, currently pursuing a degree in Computer Engineering at Sharif University of Technology,
-  which is renowned as a leading educational institution in Iran and the Middle East. I am on track to graduate with a bachelor's degree in January 2024.
-  At the moment, I am actively engaged in the development of a Persian open-source Wordnet. Notably, The paper for this project will be submitted to Language Resources and Evaluation Journal. 
-  Furthermore, you can access the preprint of my alternate project, "A Novel Approach to Persian Medical and Drug Question-Answering Utilizing Large Language Models," through this <a href="https://openreview.net/forum?id=ER-6OuoaNY">this</a> link.
-
+  which is renowned as a leading educational institution in Iran and the Middle East. 
+  I am on track to graduate with a bachelor's degree in January 2024. At the moment, I am actively engaged in the development of a Persian open-source Wordnet. 
+  Notably, The paper for this project will be submitted to Language Resources and Evaluation Journal. 
+  Furthermore,  
+  My strong fascination lies in the applications of Natural Language Processing (NLP) within the healthcare sector. As a testament to this passion,
+  you can access the preprint of my paper, "A Novel Approach to Persian Medical and Drug Question-Answering Utilizing Large Language Models", through <a href="https://openreview.net/forum?id=ER-6OuoaNY">this</a> link.
+  
+  My fields of interest are:
+  <mark>Natural Language Processing</mark> 
+  <mark>Multimodal Deep Learning</mark>
+  <mark>Modern Information Retrieval</mark>
+  <mark>Machine Learning</mark>
+  <mark>Bioinformatics</mark>
+  
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
