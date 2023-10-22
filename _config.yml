@@ -32,11 +32,11 @@ huggingface_username: mmdrez4
 # Additional icon links
 additional_links:
 - title: website
-  icon: fas fa-globe
+  icon: fas fa-file
   url: www.mohammadrezadaviran.me
 
 - title: hugging face
-  icon: fas fa-face-smiling-hands
+  icon: fa-file
   url: www.huggingface.co/mmdrez4
 
 # - title: another link
