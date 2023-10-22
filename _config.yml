@@ -36,7 +36,7 @@ additional_links:
   url: www.mohammadrezadaviran.me
 
 - title: hugging face
-  icon: fa-solid fa-face-smiling-hands
+  icon: fas fa-face-smiling-hands
   url: www.huggingface.co/mmdrez4
 
 # - title: another link
