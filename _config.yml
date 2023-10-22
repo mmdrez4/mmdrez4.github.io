@@ -31,7 +31,7 @@ huggingface_username: mmdrez4
 
 # Additional icon links
 additional_links:
-- title: website
+- title: CV
   icon: fas fa-download
   url: https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link
 
@@ -68,6 +68,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Machine Learning
   
   - Bioinformatics
+
 
   <a href="https://openreview.net/forum?id=ER-6OuoaNY">Curriculum Vitae</a>
   
