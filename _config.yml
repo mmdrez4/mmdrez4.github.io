@@ -73,7 +73,7 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://openreview.net/forum?id=ER-6OuoaNY">Curriculum Vitae</a>
   
 content:
-  - title: Research Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
