@@ -49,9 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Greetings! I am Mohammadreza Daviran, currently pursuing a degree in Computer Engineering at Sharif University of Technology,
+  which is renowned as a leading educational institution in Iran and the Middle East. I am on track to graduate with a bachelor's degree in January 2024.
+  At the moment, I am actively engaged in the development of a Persian open-source Wordnet. Notably, The paper for this project will be submitted to Language Resources and Evaluation Journal. 
+  Furthermore, you can access the preprint of my alternate project, "A Novel Approach to Persian Medical and Drug Question-Answering Utilizing Large Language Models," through this <p>{{ project_info.description | replace("link", '<a href="https://openreview.net/forum?id=ER-6OuoaNY">link</a>') | safe }}</p>.
 
 content:
   - title: Projects # Title for the section
