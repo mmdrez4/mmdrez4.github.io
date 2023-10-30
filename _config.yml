@@ -100,52 +100,126 @@ content:
         description: | # this will include new lines to allow paragraphs
             In my research endeavors, I've ventured into the dynamic field of facial image analysis with two distinct yet interconnected focuses. The first revolves around leveraging Graph Convolutional Networks (GCN) to predict linkages between face images, streamlining the process of grouping images portraying the same individual. Simultaneously, I've explored a novel approach, treating face clustering as a pairwise classification task, training a classifier to directly discern whether two faces should be categorized within the same class. These multifaceted efforts collectively represent my dedication to advancing the capabilities of facial recognition and clustering, promising innovative solutions that could redefine the landscape of this critical area of study.
 
+      - layout: left
+        title: Artificial Intelligence for Better Health
+        link: https://commamed.com/
+        # link_text: boringcompany.com
+        sub_title: Intern
+        caption: July 2022 - Sep 2022
+        quote: >
+          Image Processing for Healthcare applications
+        description: | # this will include new lines to allow paragraphs
+            In my research and practical experience, I have engaged in a multifaceted exploration of computer vision and machine learning applications. This journey encompasses training a model for the precise segmentation of lungs from X-Ray images, a critical task in medical image analysis. Additionally, I have delved into the development and deployment of Convolutional Neural Networks (CNNs) and Fully Connected models for image classification, showcasing my proficiency in crafting deep learning solutions. Furthermore, my expertise extends to advanced domains such as transfer learning, Generative Adversarial Networks (GANs), image processing techniques, and statistical analysis—all of which play pivotal roles in my efforts to advance artificial intelligence and machine learning applications.
 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Awesome NLP and Information Retrieval
+        link: https://github.com/mmdrez4/awesome-nlp/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  mmdrez4/awesome-nlp
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/mmdrez4/awesome-nlp/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          A Comprehensive Toolkit for NLP and Information Retrieval: Tackling Linguistic Challenges in Both Persian and English.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          The "Awesome NLP Projects for Persian and English" GitHub repository is a curated collection focusing on Natural Language Processing (NLP) and Information Retrieval for both Persian and English languages. It features eight distinct projects that tackle various challenges such as question answering, bias detection, illegal word filtering, sentiment analysis, and information retrieval across medical and social media data. Each project is self-contained, offering its own documentation and code for implementation, making it a valuable resource for researchers and practitioners in the NLP and Information Retrieval domains.
+      
+      - layout: top-middle
+        title: Stock Price Prediction
+        link: https://github.com/mmdrez4/stock_price_prediction/
+        # link_text: Project Website
+        additional_links:
+          - title:  mmdrez4/stock_price_prediction
+            icon: fab fa-github
+            url: https://github.com/mmdrez4/stock_price_prediction/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Achieving financial insight and efficiency through TinyML: Empowering Raspberry Pi for real-time stock price prediction and automated trading
+        description: | # this will include new lines to allow paragraphs
+          In this project, I developed and deployed an LSTM (Long Short-Term Memory) model powered by TinyML on a Raspberry Pi. The primary objective was to enable real-time stock price prediction and automated trading while prioritizing compact and low-power solutions. 
+      
+      - layout: top-middle
+        title: Microarray Data Analysis for Leukemia
+        link: https://github.com/mmdrez4/Bioinformatics_AML_Genes/
+        # link_text: Project Website
+        additional_links:
+          - title:  mmdrez4/Bioinformatics_AML_Genes
+            icon: fab fa-github
+            url: https://github.com/mmdrez4/Bioinformatics_AML_Genes/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Unlocking the Genetic Mysteries of Leukemia: A Comprehensive Analysis of Microarray Data through GEO Database and R Language.
+        description: | # this will include new lines to allow paragraphs
+          In this project, I harnessed the power of a GEO (Gene Expression Omnibus) database to conduct a comprehensive analysis of microarray data, specifically focusing on Leukemia, a form of blood cell cancer. I leveraged the R programming language to perform advanced data analysis and gain valuable insights into the molecular underpinnings of this disease. 
+      
+      - layout: top-middle
+        title: Profile Matching Based Face Identification
+        link: https://github.com/mmdrez4/ProfileMatching
+        # link_text: Project Website
+        additional_links:
+          - title:  mmdrez4/ProfileMatching
+            icon: fab fa-github
+            url: https://github.com/mmdrez4/ProfileMatching
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Fostering Digital Connection: Innovating User Profile Matching Across Diverse Social Networks through Face Identification.
+        description: | # this will include new lines to allow paragraphs
+          I both implemented and summarized the paper titled 'User Profiles Matching for Different Social Networks Based on Face Identification.' In addition to this, I crafted a user profiles matching model customized for distinct social networks, making use of face identification datasets.
+
+      - layout: top-middle
+        title: Digital Currency Fluctuation
+        link: https://github.com/mmdrez4/mobile-programming
+        # link_text: Project Website
+        additional_links:
+          - title:  mmdrez4/mobile-programming
+            icon: fab fa-github
+            url: https://github.com/mmdrez4/mobile-programming
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Empowering Users with Real-Time Insights: An Android Application for Monitoring Digital Currency Fluctuations Through Live Streaming.
+        description: | # this will include new lines to allow paragraphs
+          In this endeavor, I created an Android application dedicated to monitoring real-time digital currency fluctuations via live streaming. This project reflects my proficiency in mobile app development and a keen interest in the dynamic world of digital currencies, offering users a convenient and accessible tool for staying informed about market changes and trends.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Sharif University of Technology
+        caption: 2019 - present
+        sub_title: BSc Computer Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1966, Sharif University is the best higher education institution in Iran according to QS ranking, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the Iran but also the Middle East.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Sharif University of Technology I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a committee member of the *Sharif Cognitive Sciences Community (Shenasa)* taking on roles such as *lecturer* and *presenter*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in Machine Learning and Natural Language Processing, some of my other interests and hobbies are:
+      - Tutoring
+      - Mentoring highschool students
+      - Compose critiques for movies and music
+      - Playing Soccer and Basketball
+      
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
