@@ -84,7 +84,7 @@ content:
         sub_title: Research Assistant
         caption: November 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          A Comprehensive Toolkit for NLP and Information Retrieval: Tackling Linguistic Challenges in Both Persian and English.
         description: | # this will include new lines to allow paragraphs
             Since commencing my research at the NLP and DH lab, my focus has been on two primary endeavors. Firstly, I have dedicated my efforts to the creation of an open-source Persian Wordnet. Simultaneously, I have actively participated in the development of a Persian/English medical question-answering model that leverages the power of Large Language Models.| 
             In addition to these projects, I have been deeply involved in a noteworthy initiative aimed at pioneering the development of a Persian Large Language Model (LLM). This undertaking has been carried out in close collaboration with three esteemed professors, further emphasizing the significance of our research efforts.
@@ -129,7 +129,9 @@ content:
         quote: >
           A Comprehensive Toolkit for NLP and Information Retrieval: Tackling Linguistic Challenges in Both Persian and English.
         description: | # this will include new lines to allow paragraphs
-          The "Awesome NLP Projects for Persian and English" GitHub repository is a curated collection focusing on Natural Language Processing (NLP) and Information Retrieval for both Persian and English languages. It features eight distinct projects that tackle various challenges such as question answering, bias detection, illegal word filtering, sentiment analysis, and information retrieval across medical and social media data. Each project is self-contained, offering its own documentation and code for implementation, making it a valuable resource for researchers and practitioners in the NLP and Information Retrieval domains.
+          <center>The "Awesome NLP Projects for Persian and English" GitHub repository is a curated collection focusing on Natural Language Processing (NLP) and Information Retrieval for both Persian and English languages.
+          It features eight distinct projects that tackle various challenges such as question answering, bias detection, illegal word filtering, sentiment analysis, and information retrieval across medical and social media data.
+          Each project is self-contained, offering its own documentation and code for implementation, making it a valuable resource for researchers and practitioners in the NLP and Information Retrieval domains.</center>
       
       - layout: top-middle
         title: Stock Price Prediction
@@ -146,6 +148,7 @@ content:
           Achieving financial insight and efficiency through TinyML: Empowering Raspberry Pi for real-time stock price prediction and automated trading
         description: | # this will include new lines to allow paragraphs
           In this project, I developed and deployed an LSTM (Long Short-Term Memory) model powered by TinyML on a Raspberry Pi. The primary objective was to enable real-time stock price prediction and automated trading while prioritizing compact and low-power solutions. 
+
       
       - layout: top-middle
         title: Microarray Data Analysis for Leukemia
@@ -162,6 +165,7 @@ content:
           Unlocking the Genetic Mysteries of Leukemia: A Comprehensive Analysis of Microarray Data through GEO Database and R Language.
         description: | # this will include new lines to allow paragraphs
           In this project, I harnessed the power of a GEO (Gene Expression Omnibus) database to conduct a comprehensive analysis of microarray data, specifically focusing on Leukemia, a form of blood cell cancer. I leveraged the R programming language to perform advanced data analysis and gain valuable insights into the molecular underpinnings of this disease. 
+
       
       - layout: top-middle
         title: Profile Matching Based Face Identification
@@ -178,6 +182,7 @@ content:
           Fostering Digital Connection: Innovating User Profile Matching Across Diverse Social Networks through Face Identification.
         description: | # this will include new lines to allow paragraphs
           I both implemented and summarized the paper titled 'User Profiles Matching for Different Social Networks Based on Face Identification.' In addition to this, I crafted a user profiles matching model customized for distinct social networks, making use of face identification datasets.
+
 
       - layout: top-middle
         title: Digital Currency Fluctuation
@@ -206,10 +211,10 @@ content:
         quote: >
           Established in 1966, Sharif University is the best higher education institution in Iran according to QS ranking, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the Iran but also the Middle East.
         description: | # this will include new lines to allow paragraphs
-          During my time at Sharif University of Technology I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          While at Sharif University of Technology, I honed many of the foundational skills that have been integral to my career, including effective teamwork and meeting tight deadlines. My university experience was immensely rewarding, and it was during this time that I gained valuable insights into maintaining a healthy work-life balance.
 
-          I spent a lot of my free time as a committee member of the *Sharif Cognitive Sciences Community (Shenasa)* taking on roles such as *lecturer* and *presenter*.
-
+          Additionally, I devoted a significant portion of my free time to being an active committee member of the Sharif Cognitive Sciences Community (Shenasa), where I assumed roles such as lecturer and presenter. This involvement allowed me to further develop my communication and presentation abilities while also contributing to the academic community.
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -219,7 +224,6 @@ content:
       - Compose critiques for movies and music
       - Playing Soccer and Basketball
       
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
