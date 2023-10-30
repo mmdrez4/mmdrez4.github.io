@@ -129,9 +129,11 @@ content:
         quote: >
           A Comprehensive Toolkit for NLP and Information Retrieval: Tackling Linguistic Challenges in Both Persian and English.
         description: | # this will include new lines to allow paragraphs
-          <center>The "Awesome NLP Projects for Persian and English" GitHub repository is a curated collection focusing on Natural Language Processing (NLP) and Information Retrieval for both Persian and English languages.
+          The "Awesome NLP Projects for Persian and English" GitHub repository is a curated collection focusing on Natural Language Processing (NLP) and Information Retrieval for both Persian and English languages.
           It features eight distinct projects that tackle various challenges such as question answering, bias detection, illegal word filtering, sentiment analysis, and information retrieval across medical and social media data.
-          Each project is self-contained, offering its own documentation and code for implementation, making it a valuable resource for researchers and practitioners in the NLP and Information Retrieval domains.</center>
+          Each project is self-contained, offering its own documentation and code for implementation, making it a valuable resource for researchers and practitioners in the NLP and Information Retrieval domains.
+          |
+          |
       
       - layout: top-middle
         title: Stock Price Prediction
@@ -148,7 +150,8 @@ content:
           Achieving financial insight and efficiency through TinyML: Empowering Raspberry Pi for real-time stock price prediction and automated trading
         description: | # this will include new lines to allow paragraphs
           In this project, I developed and deployed an LSTM (Long Short-Term Memory) model powered by TinyML on a Raspberry Pi. The primary objective was to enable real-time stock price prediction and automated trading while prioritizing compact and low-power solutions. 
-
+          |
+          |
       
       - layout: top-middle
         title: Microarray Data Analysis for Leukemia
@@ -165,7 +168,8 @@ content:
           Unlocking the Genetic Mysteries of Leukemia: A Comprehensive Analysis of Microarray Data through GEO Database and R Language.
         description: | # this will include new lines to allow paragraphs
           In this project, I harnessed the power of a GEO (Gene Expression Omnibus) database to conduct a comprehensive analysis of microarray data, specifically focusing on Leukemia, a form of blood cell cancer. I leveraged the R programming language to perform advanced data analysis and gain valuable insights into the molecular underpinnings of this disease. 
-
+          |
+          |
       
       - layout: top-middle
         title: Profile Matching Based Face Identification
@@ -182,7 +186,8 @@ content:
           Fostering Digital Connection: Innovating User Profile Matching Across Diverse Social Networks through Face Identification.
         description: | # this will include new lines to allow paragraphs
           I both implemented and summarized the paper titled 'User Profiles Matching for Different Social Networks Based on Face Identification.' In addition to this, I crafted a user profiles matching model customized for distinct social networks, making use of face identification datasets.
-
+          |
+          |
 
       - layout: top-middle
         title: Digital Currency Fluctuation
@@ -199,7 +204,8 @@ content:
           Empowering Users with Real-Time Insights: An Android Application for Monitoring Digital Currency Fluctuations Through Live Streaming.
         description: | # this will include new lines to allow paragraphs
           In this endeavor, I created an Android application dedicated to monitoring real-time digital currency fluctuations via live streaming. This project reflects my proficiency in mobile app development and a keen interest in the dynamic world of digital currencies, offering users a convenient and accessible tool for staying informed about market changes and trends.
-
+          |
+          |
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
