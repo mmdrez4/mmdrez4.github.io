@@ -30,10 +30,10 @@ huggingface_username: mmdrez4
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: CV
-  icon: fas fa-download
-  url: https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link
+# additional_links:
+# - title: CV
+#   icon: fas fa-download
+#   url: https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link
 
 
 # - title: another link
@@ -75,7 +75,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Bioinformatics
 
 
-  <a href="https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link">Curriculum Vitae</a>
+  # <a href="https://drive.google.com/file/d/18W7Tjp_FENdLj0BL_U-5pBBy0sTqhFo8/view?usp=share_link">Curriculum Vitae</a>
   
 
 content:
@@ -171,23 +171,22 @@ content:
           Unlocking the Genetic Mysteries of Leukemia: A Comprehensive Analysis of Microarray Data through GEO Database and R Language.
         description: | # this will include new lines to allow paragraphs
           In this project, I harnessed the power of a GEO (Gene Expression Omnibus) database to conduct a comprehensive analysis of microarray data, specifically focusing on Leukemia, a form of blood cell cancer. I leveraged the R programming language to perform advanced data analysis and gain valuable insights into the molecular underpinnings of this disease. 
-
       
-      - layout: top-middle
-        title: Profile Matching Based Face Identification
-        link: https://github.com/mmdrez4/ProfileMatching
-        # link_text: Project Website
-        additional_links:
-          - title:  mmdrez4/ProfileMatching
-            icon: fab fa-github
-            url: https://github.com/mmdrez4/ProfileMatching
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Fostering Digital Connection: Innovating User Profile Matching Across Diverse Social Networks through Face Identification.
-        description: | # this will include new lines to allow paragraphs
-          I both implemented and summarized the paper titled 'User Profiles Matching for Different Social Networks Based on Face Identification.' In addition to this, I crafted a user profiles matching model customized for distinct social networks, making use of face identification datasets.
+      # - layout: top-middle
+      #   title: Profile Matching Based Face Identification
+      #   link: https://github.com/mmdrez4/ProfileMatching
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  mmdrez4/ProfileMatching
+      #       icon: fab fa-github
+      #       url: https://github.com/mmdrez4/ProfileMatching
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     Fostering Digital Connection: Innovating User Profile Matching Across Diverse Social Networks through Face Identification.
+      #   description: | # this will include new lines to allow paragraphs
+      #     I both implemented and summarized the paper titled 'User Profiles Matching for Different Social Networks Based on Face Identification.' In addition to this, I crafted a user profiles matching model customized for distinct social networks, making use of face identification datasets.
 
 
       - layout: top-middle
