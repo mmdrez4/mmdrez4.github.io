@@ -50,25 +50,27 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Greetings! I am Mohammadreza Daviran, currently pursuing a degree in Computer Engineering at <a href="https://en.sharif.edu/">Sharif University of Technology</a>,
-  which is renowned as a leading educational institution in Iran and the Middle East. I am on track to graduate with a bachelor's degree in January 2024. 
+  Greetings! I am Mohammadreza Daviran, recently I got my degree in Computer Engineering at <a href="https://en.sharif.edu/">Sharif University of Technology</a>,
+  which is renowned as a leading educational institution in Iran and the Middle East.
   At the moment, I am actively engaged in the development of a Persian open-source Wordnet. 
-  Notably, The paper for this project will be submitted to Language Resources and Evaluation Journal. 
-  Additionally, I am engaging in a substantial and pioneering project to create the first Persian Large Language Model.
-  Furthermore, One of my strong fascinations lies in the applications of Natural Language Processing (NLP) within the healthcare sector. As a testament to this passion,
+  Notably, The paper for this project will be submitted to the Language Resources and Evaluation Journal. 
+  Additionally, I am engaging in a substantial and pioneering project to create a Persian Large Language Model.
+  Furthermore, One of my strong fascinations lies in the applications of Natural Language Processing (NLP) and Machine Learning within the healthcare sector. As a testament to this passion,
   you can access the preprint of our paper, "A Novel Approach to Persian Medical and Drug Question-Answering Utilizing Large Language Models", through <a href="https://openreview.net/forum?id=ER-6OuoaNY">this</a> link.
   
   My fields of interest are:
   
   - Natural Language Processing 
 
+  - Machine Learning
+
+  - ML for Health
+
   - Large Language Models
   
   - Multimodal Deep Learning
   
   - Modern Information Retrieval
-  
-  - Machine Learning
   
   - Bioinformatics
 
@@ -92,16 +94,16 @@ content:
             Since commencing my research at the NLP and DH lab, my focus has been on two primary endeavors. Firstly, I have dedicated my efforts to the creation of an open-source Persian Wordnet. Simultaneously, I have actively participated in the development of a Persian/English medical question-answering model that leverages the power of Large Language Models.| 
             In addition to these projects, I have been deeply involved in a noteworthy initiative aimed at pioneering the development of a Persian Large Language Model (LLM). This undertaking has been carried out in close collaboration with three esteemed professors, further emphasizing the significance of our research efforts.
       
-      - layout: left
-        title: Sharif University of Technology
-        link: https://en.sharif.edu
-        # link_text: boringcompany.com
-        sub_title: Research Assistant
-        caption: September 2021 - July 2022
-        quote: >
-          Image Processing and Facial Image Analysis
-        description: | # this will include new lines to allow paragraphs
-            In my research endeavors, I've ventured into the dynamic field of facial image analysis with two distinct yet interconnected focuses. The first revolves around leveraging Graph Convolutional Networks (GCN) to predict linkages between face images, streamlining the process of grouping images portraying the same individual. Simultaneously, I've explored a novel approach, treating face clustering as a pairwise classification task, training a classifier to directly discern whether two faces should be categorized within the same class. These multifaceted efforts collectively represent my dedication to advancing the capabilities of facial recognition and clustering, promising innovative solutions that could redefine the landscape of this critical area of study.
+      # - layout: left
+      #   title: Sharif University of Technology
+      #   link: https://en.sharif.edu
+      #   # link_text: boringcompany.com
+      #   sub_title: Research Assistant
+      #   caption: September 2021 - July 2022
+      #   quote: >
+      #     Image Processing and Facial Image Analysis
+      #   description: | # this will include new lines to allow paragraphs
+      #       In my research endeavors, I've ventured into the dynamic field of facial image analysis with two distinct yet interconnected focuses. The first revolves around leveraging Graph Convolutional Networks (GCN) to predict linkages between face images, streamlining the process of grouping images portraying the same individual. Simultaneously, I've explored a novel approach, treating face clustering as a pairwise classification task, training a classifier to directly discern whether two faces should be categorized within the same class. These multifaceted efforts collectively represent my dedication to advancing the capabilities of facial recognition and clustering, promising innovative solutions that could redefine the landscape of this critical area of study.
 
       - layout: left
         title: Artificial Intelligence for Better Health
@@ -211,7 +213,7 @@ content:
     content:
       - layout: left
         title: Sharif University of Technology
-        caption: 2019 - present
+        caption: 2019 - 2024
         sub_title: BSc Computer Engineering
         quote: >
           Established in 1966, Sharif University is the best higher education institution in Iran according to QS ranking, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the Iran but also the Middle East.
@@ -224,8 +226,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Machine Learning and Natural Language Processing, some of my other interests and hobbies are:
-      - Tutoring
-      - Mentoring highschool students
       - Compose critiques for movies and music
       - Playing Soccer and Basketball
       
