@@ -69,8 +69,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   - Multimodal Deep Learning
   
-  - Modern Information Retrieval
-  
   - Bioinformatics
   
 
@@ -101,23 +99,23 @@ content:
       #   description: | # this will include new lines to allow paragraphs
       #       In my research endeavors, I've ventured into the dynamic field of facial image analysis with two distinct yet interconnected focuses. The first revolves around leveraging Graph Convolutional Networks (GCN) to predict linkages between face images, streamlining the process of grouping images portraying the same individual. Simultaneously, I've explored a novel approach, treating face clustering as a pairwise classification task, training a classifier to directly discern whether two faces should be categorized within the same class. These multifaceted efforts collectively represent my dedication to advancing the capabilities of facial recognition and clustering, promising innovative solutions that could redefine the landscape of this critical area of study.
 
-      - layout: left
-        title: Artificial Intelligence for Better Health
-        link: https://commamed.com/
-        # link_text: boringcompany.com
-        sub_title: Intern
-        caption: July 2022 - Sep 2022
-        quote: >
-          Image Processing for Healthcare applications
-        description: | # this will include new lines to allow paragraphs
-            In my research and practical experience, I have engaged in a multifaceted exploration of computer vision and machine learning applications. This journey encompasses training a model for the precise segmentation of lungs from X-Ray images, a critical task in medical image analysis. Additionally, I have delved into the development and deployment of Convolutional Neural Networks (CNNs) and Fully Connected models for image classification, showcasing my proficiency in crafting deep learning solutions. Furthermore, my expertise extends to advanced domains such as transfer learning, Generative Adversarial Networks (GANs), image processing techniques, and statistical analysis—all of which play pivotal roles in my efforts to advance artificial intelligence and machine learning applications.
+      # - layout: left
+      #   title: Artificial Intelligence for Better Health
+      #   link: https://commamed.com/
+      #   # link_text: boringcompany.com
+      #   sub_title: Intern
+      #   caption: July 2022 - Sep 2022
+      #   quote: >
+      #     Image Processing for Healthcare applications
+      #   description: | # this will include new lines to allow paragraphs
+      #       In my research and practical experience, I have engaged in a multifaceted exploration of computer vision and machine learning applications. This journey encompasses training a model for the precise segmentation of lungs from X-Ray images, a critical task in medical image analysis. Additionally, I have delved into the development and deployment of Convolutional Neural Networks (CNNs) and Fully Connected models for image classification, showcasing my proficiency in crafting deep learning solutions. Furthermore, my expertise extends to advanced domains such as transfer learning, Generative Adversarial Networks (GANs), image processing techniques, and statistical analysis—all of which play pivotal roles in my efforts to advance artificial intelligence and machine learning applications.
 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Awesome NLP and Information Retrieval
+        title: Awesome NLP
         link: https://github.com/mmdrez4/awesome-nlp/
         # link_text: Project Website
         additional_links:
