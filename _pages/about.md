@@ -69,12 +69,3 @@ Selected courses: CMPUT 605 (LLMs for Data Management), CMPUT 655 (Reinforcement
 **Programming:** Python, R, Java, C/C++, SQL, Android, Swift, MATLAB  
 **Libraries/Frameworks:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, SciPy, NLTK, HF Transformers, LangChain, NetworkX, SQLGlot  
 **Tools/DBs:** Git, PostgreSQL, SQLite, MongoDB, LaTeX
-
----
-
-## Contact
-- **Email:** mohammadrezadaviran01@gmail.com  
-- **GitHub:** [mmdrez4](https://github.com/mmdrez4)  
-- **LinkedIn:** [mohammadreza-daviran](https://www.linkedin.com/in/mohammadreza-daviran/)  
-- **Google Scholar:** (add when ready)  
-- **arXiv:** [SQL-Exchange (arXiv:2508.07087)](https://arxiv.org/abs/2508.07087)
