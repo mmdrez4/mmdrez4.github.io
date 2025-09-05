@@ -1,28 +1,22 @@
 ---
 layout: single
-title: "Mohammadreza Daviran"
+title: ""
 permalink: /
 author_profile: true
 ---
 
-I’m an M.Sc. student in Computing Science at the University of Alberta (Rafiei Lab), working on **SQL-Exchange** (cross-schema SQL query mapping) and **schema matching / mappability** with large language models. I’m broadly interested in **Data Management**, **NLP**, **Information Retrieval**, **LLMs**, **Database Systems**, and **Text-to-SQL**.
+I’m **Mohammadreza Daviran**, an M.Sc. student in Computing Science at the [University of Alberta](https://www.ualberta.ca/en), advised by Prof. [Davood Rafiei](https://webdocs.cs.ualberta.ca/~drafiei/).  
 
----
+My research lies at the intersection of **data management** and **natural language processing**, with a focus on how large language models (LLMs) can be leveraged to make databases more accessible and intelligent. I study problems such as **query mapping across heterogeneous schemas**, **schema matching and mappability prediction**, and **text-to-SQL generation**, aiming to build systems that reliably translate user intent into executable queries across diverse domains.  
 
-## Research Interests
-- Data Management, Database Systems  
-- Natural Language Processing (NLP), Information Retrieval  
-- Large Language Models (LLMs), Text-to-SQL
+Broadly, my interests span **Data Management**, **Database Systems**, **Natural Language Processing (NLP)**, and **Information Retrieval**. My long-term goal is to bridge database systems and language technologies, enabling adaptive and reliable query understanding across diverse domains.
 
 ---
 
 ## Education
-**University of Alberta** — M.Sc. in Computing Science, *GPA: 3.925/4.00* (Sep 2024–present)  
-Selected courses: CMPUT 605 (LLMs for Data Management), CMPUT 655 (Reinforcement Learning I), CMPUT 501 (Intro to NLP), CMPUT 659 (Neurosymbolic Programming).
+**University of Alberta** — M.Sc. in Computing Science (Sep 2024–present)  
 
-**Sharif University of Technology** — B.Sc. in Computer Engineering, *GPA: 18.58/20 (≈3.90/4.00)* (Sep 2019–Feb 2024)
-
-**Shahid Beheshti High School (NODET)** — Physics & Mathematics (2013–2019)
+**Sharif University of Technology** — B.Sc. in Computer Engineering
 
 ---
 
@@ -62,10 +56,3 @@ Selected courses: CMPUT 605 (LLMs for Data Management), CMPUT 655 (Reinforcement
 - Full scholarship (tuition waiver), Sharif University of Technology (2019)  
 - Ranked **157th (top 0.09%)** in Iran National Universities Entrance Exam (Konkour)  
 - Admitted to **NODET** (≈2% acceptance rate)
-
----
-
-## Skills
-**Programming:** Python, R, Java, C/C++, SQL, Android, Swift, MATLAB  
-**Libraries/Frameworks:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, SciPy, NLTK, HF Transformers, LangChain, NetworkX, SQLGlot  
-**Tools/DBs:** Git, PostgreSQL, SQLite, MongoDB, LaTeX
