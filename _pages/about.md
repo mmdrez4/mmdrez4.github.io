@@ -21,4 +21,4 @@ Broadly, I’m interested in Data Management, Database Systems, Natural Language
 ## 📄 Publications
 - **SQL-Exchange: Transforming SQL Queries Across Domains.**  
   *M. Daviran, B. Lin, D. Rafiei.* arXiv:2508.07087. (Accepted to VLDB 2026)  
-  [arXiv link](https://arxiv.org/abs/2508.07087)
+  [link](https://arxiv.org/abs/2508.07087)
