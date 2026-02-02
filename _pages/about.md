@@ -11,6 +11,12 @@ Broadly, I’m interested in Data Management, Database Systems, Natural Language
 
 ---
 
+## 📰 News
+SQL-Exchange has been accepted to VLDB 2026 🎉
+Our paper, “SQL-Exchange: Transforming SQL Queries Across Domains,” will appear at the 52nd International Conference on Very Large Data Bases (VLDB 2026).
+
+---
+
 ## 🎓 Education
 **University of Alberta** — M.Sc. in Computing Science (Sep 2024–present)  
 
