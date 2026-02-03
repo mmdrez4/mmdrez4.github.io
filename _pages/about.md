@@ -12,7 +12,17 @@ Broadly, I’m interested in Data Management, Database Systems, Natural Language
 ---
 
 ## 📰 News
-- **Jan 2026** — **SQL-Exchange** was **accepted to VLDB 2026**. 🎉
+- <span style="
+    display: inline-block;
+    padding: 4px 10px;
+    margin-right: 8px;
+    border-radius: 999px;
+    background-color: #f1f3f5;
+    font-weight: 600;
+    font-size: 0.9em;
+  ">Jan 2026</span>
+  <strong>SQL-Exchange</strong> was <strong>accepted to VLDB 2026</strong>.<br>
+
   *SQL-Exchange: Transforming SQL Queries Across Domains* will appear at the 52nd International Conference on Very Large Data Bases.
 
 ---
