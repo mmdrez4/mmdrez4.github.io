@@ -12,12 +12,28 @@ Broadly, I’m interested in Data Management, Database Systems, Natural Language
 ---
 
 ## 📰 News
+
 - <span style="
     display: inline-block;
     padding: 4px 10px;
     margin-right: 8px;
     border-radius: 999px;
-    background-color: #f1f3f5;
+    background-color: rgba(128, 128, 128, 0.2);
+    color: currentColor; 
+    font-weight: 600;
+    font-size: 0.9em;
+  ">Mar 2026</span>
+  <strong>How Far Can They Map?</strong> was <strong>accepted to the Beyond SQL Workshop at ICDE 2026</strong>.<br>
+
+  *How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation* will appear at the Beyond SQL Workshop, co-located with the IEEE International Conference on Data Engineering (ICDE 2026).
+  
+- <span style="
+    display: inline-block;
+    padding: 4px 10px;
+    margin-right: 8px;
+    border-radius: 999px;
+    background-color: rgba(128, 128, 128, 0.2);
+    color: currentColor; 
     font-weight: 600;
     font-size: 0.9em;
   ">Jan 2026</span>
