@@ -52,7 +52,7 @@ Broadly, I’m interested in Data Management, Database Systems, Natural Language
 ---
 
 ## 📄 Publications
-- **How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation.
+- **How Far Can They Map? Probing LLM Capabilities for Cross-Schema SQL Generation.**
   *M. Daviran, D. Rafiei.* (Accepted to ICDEW 2026)
   [link](https://beyond-sql.github.io/papers/BeyondSQL_2026_Cross_Schema_SQL_Generation.pdf)
 - **SQL-Exchange: Transforming SQL Queries Across Domains.**  
